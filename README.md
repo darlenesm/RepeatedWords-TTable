@@ -1,0 +1,2 @@
+# RepeatedWords-TTable
+Teoria Practice
